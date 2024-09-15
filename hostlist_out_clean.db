@@ -652,6 +652,7 @@ agps-location-livenet.trafficmanager.net
 ahainternational.com
 ahainternational.net
 ahalogy.com
+        <a href="https://ellio.tech">
 aimatch.com
 aimon.applicationinsights.azure.com
 ainterme.com
@@ -1052,6 +1053,7 @@ azurewatson.microsoft.com
 azurewatsontest.microsoft.com
 azwancan.trafficmanager.net
 babebrkrflow.com
+      .back-button img {
 backlinkbuild.com
 b.ads2.msads.net
 bae5tracker.com
@@ -1903,6 +1905,7 @@ contentclick.co.uk
 contentfeed.net
 contentquery.net
 content-square.net
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 contentwindow.com
 contextuads.com
 contextweb.com
@@ -2534,6 +2537,11 @@ erne.co
 ero-advertising.com
 erombflowms.com
 errorception.com
+      .error-code {
+      .error-container {
+      .error-description {
+      .error-description-black {
+      .error-title {
 ertpikbdctyfxeqkzdghb.com
 esearchvision.com
 esla.biz
@@ -3360,6 +3368,7 @@ ieonline.microsoft.com
 ieonlinews.microsoft.com
 ieonlinews.trafficmanager.net
 iframes.us
+    <!-- if you are reading this, check out https://ellio.tech/careers -->
 igodigital.com
 igsonar.com
 iiad.com
@@ -3635,6 +3644,7 @@ latencyelb.info
 latestprizes.com
 latestprizes.net
 launch.apple.com
+      .layout {
 lb1.www.ms.akadns.net
 lcprd1.samsungcloudsolution.net
 lctrk.com
@@ -3779,7 +3789,11 @@ log-lf.snssdk.com
 log-lq.snssdk.com
 logmatic.io
 lognormal.net
+          .logo {
+      .logo {
+      .logo img {
 log.olark.com
+      .logo-wrapper {
 log-phx.tiktokv.com
 log.pinterest.com
 log-ru.tiktokv.com
@@ -14711,6 +14725,14 @@ partner.api.bingads.microsoft.com
 partnerfeed.itsfogo.com
 partner-ts.groupon.co.uk
 passionfruitads.com
+              <path d="M106.534 1.69043H100.235V30.2786H106.534V1.69043Z" fill="#1E1B1B"/>
+              <path d="M31.7494 12.8375H0V18.6602H31.7494V12.8375Z" fill="#00A8FF"/>
+              <path d="M31.7494 1.68643H0V7.50918H31.7494V1.68643Z" fill="#00A8FF"/>
+              <path d="M31.7494 24.4516H0V30.2743H31.7494V24.4516Z" fill="#00A8FF"/>
+              <path d="M31.7517 1.69043H51.1739V7.51303H38.0508V12.8348H50.4471V18.6495H38.0508V24.4641H51.9008V30.2786H31.7517V1.69043Z" fill="#1E1B1B"/>
+              <path d="M57.1903 1.69043H63.4895V24.4641H75.1589V30.2786H57.1903V1.69043Z" fill="#1E1B1B"/>
+              <path d="M78.8738 1.69043H85.1728V24.4641H96.8423V30.2786H78.8738V1.69043Z" fill="#1E1B1B"/>
+              <path fill-rule="evenodd" clip-rule="evenodd" d="M123.126 30.1769C121.758 30.0393 120.468 29.7376 119.258 29.2756C117.51 28.6095 116 27.6553 114.727 26.4129C113.455 25.1705 112.463 23.6655 111.752 21.898C111.041 20.1304 110.685 18.158 110.685 15.9805C110.685 13.8032 111.041 11.8306 111.752 10.0631C112.463 8.29556 113.455 6.79049 114.727 5.54817C116 4.30575 117.51 3.35151 119.258 2.68546C121.003 2.0194 122.912 1.68643 124.983 1.68643C127.055 1.68643 128.964 2.0194 130.71 2.68546C132.456 3.35151 133.967 4.30575 135.239 5.54817C136.511 6.79049 137.504 8.29556 138.215 10.0631C138.926 11.8306 139.282 13.8032 139.282 15.9805C139.282 18.158 138.926 20.1304 138.215 21.898C137.504 23.6655 136.511 25.1705 135.239 26.4129C133.967 27.6553 132.456 28.6095 130.71 29.2756C129.498 29.7376 128.208 30.0393 126.84 30.1769V24.5617C127.379 24.4546 127.888 24.2963 128.371 24.0882C129.381 23.6527 130.249 23.0444 130.972 22.263C131.696 21.4817 132.251 20.5595 132.637 19.4965C133.025 18.4334 133.218 17.2614 133.218 15.9805C133.218 14.7253 133.025 13.5597 132.637 12.4839C132.251 11.4079 131.696 10.4794 130.972 9.698C130.249 8.91674 129.381 8.30834 128.371 7.87282C127.36 7.4374 126.231 7.21963 124.983 7.21963C123.735 7.21963 122.606 7.4374 121.597 7.87282C120.585 8.30834 119.718 8.91674 118.995 9.698C118.27 10.4794 117.715 11.4079 117.329 12.4839C116.943 13.5597 116.75 14.7253 116.75 15.9805C116.75 17.2614 116.943 18.4334 117.329 19.4965C117.715 20.5595 118.27 21.4817 118.995 22.263C119.718 23.0444 120.585 23.6527 121.597 24.0882C122.079 24.2963 122.589 24.4546 123.126 24.5617V30.1769Z" fill="#1E1B1B"/>
 pawamedia.com
 pc20160301.com
 pclick.yahoo.com
@@ -14842,6 +14864,7 @@ playbuzz.com
 playforprizes.net
 playtomic.com
 please-click.net
+please reach out to our team at request@ellio.tech.
 plista.biz
 plista.com
 plista.info
@@ -15145,6 +15168,7 @@ rebrandly.pro
 rebrand.today
 reclaimthenet.com
 recomenda.com.br
+              <rect width="140" height="29.635" fill="white" transform="translate(0 0.682495)"/>
 redcounter.net
 reddadd.net
 redeye.international
@@ -15476,6 +15500,7 @@ sconsentit9.trafficmanager.net
 scorecardresearch.com
 scorecardresearch.net
 scoutanalytics.net
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
 scripts.chitika.net
 scripts.kataweb.it
 script.trackword.net
@@ -15765,6 +15790,7 @@ skiftmedia.pt
 skift.pt
 skimresources.com
 skipittok.com
+      .slack-button {
 slashtag.link
 slendastic.com
 slimcut.media
@@ -16054,6 +16080,7 @@ survicate.com
 survio.com
 survio.se
 sv06p01ad-ext-cloud.iad.apple.com
+             <svg width="140" height="31" viewBox="0 0 140 31" fill="none" xmlns="http://www.w3.org/2000/svg">
 swedencentral-0.in.applicationinsights.azure.com
 switchadhub.com
 switchads.com
@@ -16155,8 +16182,12 @@ thausredmsmt.com
 theadex.com
 theatre-breaks.com
 thebrighttag.com
+The community edition of ELLIO Threat List is for non-commercial use only.
+            The community edition of ELLIO: Threat List is for personal non-commercial use only.
 thecounter.com
 thedailypocket.mobi
+                The ELLIO Team.
+The ELLIO Team.
 thehellobar.com
 thehut.net
 themckinleymail.com
@@ -16185,6 +16216,7 @@ tip.ads.microsoft.com
 tip.bingads.microsoft.com
 tiqcdn.com
 titanium1100-en-au.census.trendmicro.com
+  <title>Commercial use detected.</title>
 tizergo.net
 tk.amazon-adsystem.com
 tk-beta.amazon-adsystem.com
