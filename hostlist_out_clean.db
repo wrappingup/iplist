@@ -597,6 +597,7 @@ aes.ap-southeast.3px.axp.amazon-adsystem.com
 aes-beta.axp.amazon-adsystem.com
 aes.eu-west.3px.axp.amazon-adsystem.com
 aes.eu-west.ono.axp.amazon-adsystem.com
+aes.fe.ono.axp.amazon-adsystem.com
 aes.us-east.3px.axp.amazon-adsystem.com
 aes.us-east.live-events.ono.axp.amazon-adsystem.com
 aes.us-east.ono.axp.amazon-adsystem.com
@@ -2716,6 +2717,7 @@ feedbackws.icloud.com.cn
 feedmagnet.com
 feedsportal.com
 feedstat.com
+fe.ono.axp.amazon-adsystem.com
 fetchback.com
 ffc-excel-telemetry.officeapps.live.com
 ffc-word-telemetry.officeapps.live.com
