@@ -14745,7 +14745,12 @@ pf.events.data.microsoft.com
 pf.events.data.trafficmanager.net
 pf.pipe.aria.microsoft.com
 pgpartner.com
+pgtbr1-excel-telemetry-vip.officeapps.live.com
 pgtbr1-powerpoint-telemetry-vip.officeapps.live.com
+pgtbr1-word-telemetry-vip.officeapps.live.com
+pgtca1-excel-telemetry-vip.officeapps.live.com
+pgtca1-powerpoint-telemetry-vip.officeapps.live.com
+pgtca1-word-telemetry-vip.officeapps.live.com
 pgteu1-excel-telemetry-vip.officeapps.live.com
 pgteu1-powerpoint-telemetry-vip.officeapps.live.com
 pgteu1-word-telemetry-vip.officeapps.live.com
@@ -14757,7 +14762,9 @@ pgteu3-powerpoint-telemetry-vip.officeapps.live.com
 pgteu3-word-telemetry-vip.officeapps.live.com
 pgteu4-excel-telemetry-vip.officeapps.live.com
 pgteu4-powerpoint-telemetry-vip.officeapps.live.com
+pgtmx1-excel-telemetry-vip.officeapps.live.com
 pgtmx1-powerpoint-telemetry-vip.officeapps.live.com
+pgtmx1-word-telemetry-vip.officeapps.live.com
 pgtus1-excel-telemetry-vip.officeapps.live.com
 pgtus1-powerpoint-telemetry-vip.officeapps.live.com
 pgtus1-word-telemetry-vip.officeapps.live.com
@@ -16930,6 +16937,7 @@ wemfbox.ch
 wernmen.net
 wes.df.telemetry.microsoft.com
 we-stats.com
+westcentralus-0.in.aimon.applicationinsights.azure.com
 westcentralus-global.in.aimon.applicationinsights.azure.com
 westeurope-0.in.applicationinsights.azure.com
 westeurope-1.in.applicationinsights.azure.com
