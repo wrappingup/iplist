@@ -14411,8 +14411,11 @@ netsurfmonitor.com
 networkadvertising.org
 newdating.today
 newdealmedia.info
+news-app-events.apple.com
 newscurve.com
 newsinc.com
+news-notification-events.apple.com
+news-sports-events.apple.com
 new-telemetry.insights.video.a2z.com
 newworldfamily.com
 nex8.net
@@ -14929,11 +14932,13 @@ prod-clustered.bugs.firebat.prime-video.amazon.dev
 prod-eh-v1-analytics.servicebus.windows.net
 prod.eu-west-1.forester.a2z.com
 prod-eventhub-analytics.servicebus.windows.net
+prod-event-relay-api.v.aaplimg.com
 prod-event-relay-books-api.v.aaplimg.com
 prod-event-relay-notes-api.v.aaplimg.com
 prod-event-relay-sports-api.v.aaplimg.com
 prod-event-relay-stocks-api.v.aaplimg.com
 prod-event-relay-weather-api.v.aaplimg.com
+prod-news-notification-events.v.aaplimg.com
 prod.nexusrules.live.com.akadns.net
 prod.service.minerva.devices.a2z.com
 prod.spotify.map.fastlylb.net
