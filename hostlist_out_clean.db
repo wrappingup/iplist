@@ -455,6 +455,7 @@ ads-gamma.aps.amazon-adsystem.com
 ads.gold
 ads.hearstmags.com
 adshole.click
+ads-ie.tiktokw.eu
 adsignify.net
 ads-int.microsoft.com
 ads.jp.msn.com
@@ -484,6 +485,7 @@ adstheaa.com
 ads.tiktok.com
 ad-stir.com
 adstore.response.eastus.trafficmanager.net
+ads-ttp2.tiktokw.eu
 adsty.com
 adsur.it
 adsurity.com
@@ -747,6 +749,7 @@ analytics.faw.sky.com
 analytics.gandi.net
 analytics.hosting24.com
 analytics-i18n.tiktok.com
+analytics-ie.tiktokw.eu
 analyticsiot-prod-simpad-ehn.servicebus.windows.net
 analytics.ip-profis.de
 analytics-listener.trafficmanager.net
@@ -783,6 +786,7 @@ analytics-test.tiktok.com
 analytics.tiktok.com
 analytics.trackerstatus.info
 analytics.trafficmanager.net
+analytics-ttp2.tiktokw.eu
 analytics-ttp2.us.tiktok.com
 analytics-union.xunlei.com
 analytics.unister-gmbh.de
@@ -3645,6 +3649,7 @@ legacywatson.trafficmanager.net
 legolas-media.com
 leiki.com
 lelabdecisionnel.com
+lemon8-api.tiktokv.com
 letstrychat.iblogger.org
 levexis.com
 lgnjmp.com
@@ -3898,6 +3903,8 @@ mclick.org
 mcs16-normal-ycru.tiktok.com
 mcsecure.mobi
 mcs-i18n.tiktok.com
+mcs-ie2.tiktokw.eu
+mcs-ie.tiktokw.eu
 mcs-sg.tiktok.com
 mcs.snssdk.com
 mcstats.org
