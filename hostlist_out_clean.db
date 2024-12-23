@@ -5,6 +5,7 @@
 105app.com
 10cms.com
 111proxy.com
+114.125#
 123count.com
 123-tracker.com
 12691274.ads.tiktok.com
@@ -979,6 +980,7 @@ at-gamma-us-east.amazon-adsystem.com
 atgsvcs.com
 ati-host.net
 atl-6-ga.com
+atm-settingsfe-prod-geo2.trafficmanager.net
 atomz.com
 atout.email-match.com
 attraqt.com
@@ -15624,7 +15626,10 @@ sessions.bugsnag.appstore.a2z.com
 sessions.bugsnag.shopbop.amazon.dev
 session-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
 sessions.prod.bugs.firebat.prime-video.amazon.dev
+settings.data.microsoft.com
 settingsfd-geo.trafficmanager.net
+settingsfd-ppe.trafficmanager.net
+settingsfd-sandbox.trafficmanager.net
 settings-sandbox.data.microsoft.com
 settings-win.data.microsoft.com
 settings-win-ppe.data.microsoft.com
