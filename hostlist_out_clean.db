@@ -720,6 +720,7 @@ analyticaa.postaffiliatepro.com
 analytics.163.com
 analytics.amakings.com
 analytics.apnewsregistry.com
+analytics.aps.amazon-adsystem.com
 analytics-attribution.tiktok.com
 analytics-attribution-va.tiktok.com
 analytics.bartlweb.net
@@ -974,6 +975,7 @@ at-beta.amazon-adsystem.com
 *.atdmt.com
 atdmt.com
 atemda.com
+ateu.amazon-adsystem.com
 atfe.amazon-adsystem.com
 at-gamma-us-east.amazon-adsystem.com
 atgsvcs.com
@@ -3646,6 +3648,7 @@ leadid.org
 leadmailing.com
 leanplum.com
 learninglab.about.ads.microsoft.com
+learninglab.ads.microsoft.com
 ledimed-ks.com
 legacywatson.trafficmanager.net
 legolas-media.com
@@ -3654,6 +3657,7 @@ lelabdecisionnel.com
 lemon8-api.tiktokv.com
 lemonapi16-normal-alisg.tiktokv.com
 lemonapi22-normal-alisg.tiktokv.com
+lemonapi22-normal-useast1a.tiktokv.com
 letstrychat.iblogger.org
 levexis.com
 lgnjmp.com
@@ -3920,6 +3924,7 @@ mcs-va.tiktok.com
 mcs-va.tiktokv.com
 mcs-va-useast2a.tiktokv.com
 mc.yandex.ru
+mdn.iad.apple.com
 mdotlabs.com
 mdotm.com
 me.apple-dns.net
@@ -16010,6 +16015,7 @@ stopemails.info
 stormartists.com
 stormiq.com
 storymedia.se
+st-prod-display-apps-ui.mdn.iad.apple.com
 strands.com
 strategicpub.eu-west.aps.axp.amazon-adsystem.com
 strategicpub.us-east.aps.axp.amazon-adsystem.com
