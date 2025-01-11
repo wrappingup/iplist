@@ -306,6 +306,7 @@ ad-instantpage-i18n.tiktokv.com
 ad-instantpage-sg.tiktokv.com
 ad-instantpage.tiktokv.us
 ad-instantpage-ttp2.tiktokv.eu
+ad-instantpage-ttp2.tiktokv.us
 ad-instantpage-va.tiktokv.com
 adio.co
 adip.ly
@@ -457,6 +458,7 @@ ads.hearstmags.com
 adshole.click
 ads-ie.tiktokw.eu
 adsignify.net
+ads-imapi.tiktok.com
 ads.jp.msn.com
 ads.microsoft.com
 adsmobi.com
@@ -484,6 +486,7 @@ ads.tiktok.in
 ads.tiktok.tv
 ad-stir.com
 adstore.response.eastus.trafficmanager.net
+adstore.response.gcp.eastus.trafficmanager.net
 ads-ttp2.tiktokw.eu
 ads-ttp2.us.tiktok.com
 adsty.com
@@ -722,7 +725,6 @@ analyticaa.postaffiliatepro.com
 analytics.163.com
 analytics.amakings.com
 analytics.apnewsregistry.com
-analytics.aps.amazon-adsystem.com
 analytics-attribution.tiktok.com
 analytics-attribution-va.tiktok.com
 analytics.bartlweb.net
@@ -973,7 +975,6 @@ at-beta.amazon-adsystem.com
 *.atdmt.com
 atdmt.com
 atemda.com
-ateu.amazon-adsystem.com
 atfe.amazon-adsystem.com
 at-gamma-us-east.amazon-adsystem.com
 atgsvcs.com
@@ -3037,7 +3038,6 @@ helloworldmagic.com
 helloworldmail.com
 helloworldptqa.com
 help24center.com
-help.ads-int.microsoft.com
 help.ads.microsoft.com
 help.bingads.microsoft.com
 herasawelsov.com
@@ -3604,6 +3604,7 @@ location-microsoft-com.b-0005.b-msedge.net
 location-sg.tiktokv.com
 location.tiktok.com
 location.tiktokv.com
+location.tiktokw.us
 location-ttp2.us.tiktokv.com
 location.us.tiktokv.com
 location-v6-i18n.tiktokv.com
