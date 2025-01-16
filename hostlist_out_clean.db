@@ -771,7 +771,6 @@ ads.hearstmags.com
 adshole.click
 ads-ie.tiktokw.eu
 adsignify.net
-ads-imapi.tiktok.com
 ads.jp.msn.com
 ads.microsoft.com
 adsmobi.com
@@ -899,7 +898,6 @@ adwise.ru
 adworldmedia.com
 ad.wsod.com
 adx1.com
-adx-bids.apse.rtb.axp.amazon-adsystem.com
 ad-x.co.uk
 adxite-ads.com
 adxpansion.com
@@ -3761,11 +3759,17 @@ jpush.io
 jp-v10c.events.data.microsoft.com
 jp-v10.events.data.microsoft.com
 jp-v20.events.data.microsoft.com
+js0.cdn.applicationinsights.io
+js0.tst.applicationinsights.io
+js1.cdn.applicationinsights.io
+js1.tst.applicationinsights.io
+js2.cdn.applicationinsights.io
+js2.tst.applicationinsights.io
+js.cdn.applicationinsights.io
 js.cybermonitor.com
 jslog.post.cz
 js.maxmind.com
 js.monitor.azure.com
-js.monitor.azure.com.com
 js.revsci.net
 js.tongji.linezing.com
 jstracker.com
@@ -3955,6 +3959,7 @@ log19-normal-useast2a.tiktokv.com
 log22-applog-useast1a.tiktokv.com
 log22-applog-useast2a.tiktokv.com
 log22-normal-alisg.tiktokv.com
+log22-normal-c-alisg.tiktokv.com
 log22-normal.tiktokv.com
 log22-normal-useast1a.tiktokv.com
 log22-normal-useast2a.tiktokv.com
