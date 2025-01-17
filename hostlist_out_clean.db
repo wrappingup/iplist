@@ -748,7 +748,6 @@ adsdk.microsoft.com
 adsdkprod.afd.azureedge.net
 adsdkprod.azureedge.net
 adsdkprprod.azureedge.net
-adsdkprprod.ec.azureedge.net
 adsdk.trafficmanager.net
 ads-d.viber.com
 ads.ebay.com
@@ -1356,6 +1355,7 @@ azalead.com
 azdx.net
 azera-s014.com
 azsc-bingads-westus.westus.cloudapp.azure.com
+azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com
 azure.bingads.microsoft.com
 azure.bingads.trafficmanager.net
 azurewatson.microsoft.com
@@ -2954,7 +2954,6 @@ expandengagement.com
 experiments.apple.com
 experiments.apple.com.edgekey.net
 exponential.com
-express.bingads.microsoft.com
 ext.host-tracker.com
 extlog.snssdk.com
 extole.com
@@ -3856,7 +3855,6 @@ leadid.org
 leadmailing.com
 leanplum.com
 learninglab.about.ads.microsoft.com
-learninglab.ads.microsoft.com
 ledimed-ks.com
 legacywatson.trafficmanager.net
 legolas-media.com
@@ -3959,7 +3957,6 @@ log19-normal-useast2a.tiktokv.com
 log22-applog-useast1a.tiktokv.com
 log22-applog-useast2a.tiktokv.com
 log22-normal-alisg.tiktokv.com
-log22-normal-c-alisg.tiktokv.com
 log22-normal.tiktokv.com
 log22-normal-useast1a.tiktokv.com
 log22-normal-useast2a.tiktokv.com
@@ -14366,7 +14363,6 @@ monitoring.me-south-1.amazonaws.com
 monitoring.sa-east-1.amazonaws.com
 monitoring.us-east-1.amazonaws.com
 monitoring.us-east-2.amazonaws.com
-monitoring.us-gov-east-1.amazonaws.com
 monitoring.us-gov-west-1.amazonaws.com
 monitoring.us-west-1.amazonaws.com
 monitoring.us-west-2.amazonaws.com
