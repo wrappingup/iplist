@@ -746,7 +746,6 @@ ads.diamonds
 adsdk.microsoft.com
 adsdkprod.afd.azureedge.net
 adsdkprod.azureedge.net
-adsdkprprod.azureedge.net
 adsdk.trafficmanager.net
 ads-d.viber.com
 ads.ebay.com
@@ -1029,6 +1028,7 @@ amtracking01.com
 amung.us
 analyse.email
 analysing.email
+analysis.insights.cloud.microsoft
 analysis.shinobi.jp
 analyticaa.postaffiliatepro.com
 analytics.163.com
@@ -3532,7 +3532,7 @@ html5nano-visor.org
 html5nanovisor.org
 html5nano-visor.us
 html5nanovisor.us
-</html>#OSINT IOC Feed generated At Time: 2025-01-19T08:20:01+00:00 on Threatview[.]io
+</html>#OSINT IOC Feed generated At Time: 2025-01-19T20:20:01+00:00 on Threatview[.]io
 httptrack.com
 huafeibianzhidai.com
 hub.analytics.trafficmanager.net
@@ -3670,6 +3670,7 @@ insideruser.trafficmanager.net
 insightexpressai.com
 insightfirst.com
 insightfirst.net
+insights.cloud.microsoft
 insights.samsung.com
 inskinad.com
 inskinads.com
