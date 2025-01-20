@@ -363,6 +363,7 @@
 4q.iperceptions.com
 4seeresults.com
 4stats.de
+51.254..28
 51.la
 51yes.com
 5293.com
@@ -517,6 +518,7 @@ absentvodka.com
 abtasty.com
 abtest-ch.snssdk.com
 ac1.ayee.net
+ac2.msn.com
 ac3.msn.com
 aca.bugsnag.appstore.a2z.com
 aca.ftv.bugsnag.appstore.a2z.com
@@ -743,6 +745,8 @@ ad-score.com
 ads-creativesyndicator.com
 ads.diamonds
 adsdk.microsoft.com
+adsdkpreprod.afd.azureedge.net
+adsdkpreprod.azureedge.net
 adsdkprod.afd.azureedge.net
 adsdkprod.azureedge.net
 adsdk.trafficmanager.net
@@ -1062,7 +1066,6 @@ analytics.gandi.net
 analytics.hosting24.com
 analytics-i18n.tiktok.com
 analytics-ie.tiktokw.eu
-analyticsiot-prod-simpad-ehn.servicebus.windows.net
 analytics.ip-profis.de
 analytics-ipv6.tiktokw.us
 analytics-listener.trafficmanager.net
@@ -1135,10 +1138,12 @@ api.beta.ads.microsoft.com
 api.bingads.microsoft.com
 api.cortana.ai
 api.crowdin.com
+api.diagnostics.office.com
 api.edgeoffer.microsoft.com
 api.eu-west-1.aiv-delivery.net
 api.gamma-toolbox.aps.amazon-adsystem.com
 api.mobula.sdk.duapps.com
+api.msa.diagnostics.office.com
 api.us-east-1.aiv-delivery.net
 api.us-west-2.aiv-delivery.net
 api.wipmania.com
@@ -1243,7 +1248,11 @@ aptrk9.com
 apxlv.com
 aracea.com
 ara.paa-reporting-advertising.amazon
+arc1.msn.com
+arc2.msn.com
 arc3.msn.com
+arc9.msn.com
+arc-emea.msn.com
 arc.msn.com
 arcpublishing.com
 areyouahuman.com
@@ -1353,7 +1362,6 @@ azalead.com
 azdx.net
 azera-s014.com
 azsc-bingads-westus.westus.cloudapp.azure.com
-azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com
 azure.bingads.microsoft.com
 azure.bingads.trafficmanager.net
 azurewatson.microsoft.com
@@ -1967,6 +1975,8 @@ citrixtelemetryeh.servicebus.windows.net
 citypaketet.se
 cj.com
 c.jp.msn.com
+cjs.diagnostics.office.com
+cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net
 claimfreerewards.com
 clarity.microsoft.com
 c.latam.msn.com
@@ -2541,6 +2551,7 @@ diagassets.g.aaplimg.com
 diagassets-lb.apple.com.akadns.net
 diagnostics.apple.com
 diagnostics.apple.com.akadns.net
+diagnostics.office.com
 diagnostics.support.microsoft.com
 diamondeal.click
 diamondmedia.click
@@ -2828,6 +2839,7 @@ ensighten.com
 enterotracker.de
 enterprise.activity.windows.com
 enterprise-eudb.activity.windows.com
+entitlement.diagnostics.office.com
 envnexus.com
 envnexus.net
 envnxs.com
@@ -3531,7 +3543,7 @@ html5nano-visor.org
 html5nanovisor.org
 html5nano-visor.us
 html5nanovisor.us
-</html>#OSINT IOC Feed generated At Time: 2025-01-20T08:20:01+00:00 on Threatview[.]io
+</html>#OSINT IOC Feed generated At Time: 2025-01-20T20:20:01+00:00 on Threatview[.]io
 httptrack.com
 huafeibianzhidai.com
 hub.analytics.trafficmanager.net
@@ -3631,6 +3643,7 @@ in.applicationinsights.azure.cn
 in.applicationinsights.azure.com
 in.applicationinsights.azure.us
 inboxreport.com
+incidents.diagnostics.office.com
 inc-visio-telemetry.officeapps.live.com
 indexww.com
 indpcr1.com
@@ -4009,6 +4022,7 @@ log9-normal-c-useast1a.tiktokv.com
 log.atns.de
 logbk.tiktokv.com
 log.byteoversea.com
+logging.diagnostics.office.com
 loggly.com
 loggly.net
 loggly.org
@@ -14438,6 +14452,7 @@ m.quantcount.com
 mrkt.it
 mr-rank.de
 mrtrack.dada.net
+msa.diagnostics.office.com
 msads.net
 ms.analytics.live.com
 msc-dct-prod.msc.apple.com
@@ -14948,7 +14963,6 @@ pgtmx1-powerpoint-telemetry-vip.officeapps.live.com
 pgtmx1-word-telemetry-vip.officeapps.live.com
 pgtsg1-excel-telemetry-vip.officeapps.live.com
 pgtsg1-powerpoint-telemetry-vip.officeapps.live.com
-pgtsg1-word-telemetry-vip.officeapps.live.com
 pgtus1-excel-telemetry-vip.officeapps.live.com
 pgtus1-powerpoint-telemetry-vip.officeapps.live.com
 pgtus1-word-telemetry-vip.officeapps.live.com
@@ -16170,6 +16184,7 @@ supersonic.com
 superstatistiche.it
 superstats.com
 supertura.com
+supportexperience.diagnostics.office.com
 supportmetrics.apple.com
 supportmetrics.v.aaplimg.com
 survata.net
@@ -16261,6 +16276,7 @@ telemetry.mozilla.org
 telemetry.nvidia.com
 telemetry.remoteapp.windowsazure.com
 telemetry.urs.microsoft.com
+telemetry.visualstudio.microsoft.com
 tele.trafficmanager.net
 televisions2compare.com
 telize.com
