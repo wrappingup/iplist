@@ -725,6 +725,7 @@ analyticaa.postaffiliatepro.com
 analytics.163.com
 analytics.amakings.com
 analytics.apnewsregistry.com
+analytics.aps.amazon-adsystem.com
 analytics-attribution.tiktok.com
 analytics-attribution-va.tiktok.com
 analytics.bartlweb.net
@@ -754,6 +755,7 @@ analytics.gandi.net
 analytics.hosting24.com
 analytics-i18n.tiktok.com
 analytics-ie.tiktokw.eu
+analyticsiot-prod-simpad-ehn.servicebus.windows.net
 analytics.ip-profis.de
 analytics-ipv6.tiktokw.us
 analytics-listener.trafficmanager.net
@@ -3231,7 +3233,7 @@ html5nano-visor.org
 html5nanovisor.org
 html5nano-visor.us
 html5nanovisor.us
-</html>#OSINT IOC Feed generated At Time: 2025-01-24T08:20:01+00:00 on Threatview[.]io
+</html>#OSINT IOC Feed generated At Time: 2025-01-24T20:20:02+00:00 on Threatview[.]io
 httptrack.com
 huafeibianzhidai.com
 hub.analytics.trafficmanager.net
@@ -14087,9 +14089,11 @@ monitoring.eu-west-3.amazonaws.com
 monitoring.il-central-1.amazonaws.com
 monitoring.me-central-1.amazonaws.com
 monitoring.me-south-1.amazonaws.com
+monitoring.prod.cloudwatch.amazonaws.com
 monitoring.sa-east-1.amazonaws.com
 monitoring.us-east-1.amazonaws.com
 monitoring.us-east-2.amazonaws.com
+monitoring.us-gov-east-1.amazonaws.com
 monitoring.us-gov-west-1.amazonaws.com
 monitoring.us-west-1.amazonaws.com
 monitoring.us-west-2.amazonaws.com
@@ -15173,6 +15177,7 @@ rtbx.org
 rtbx.us
 rtc-logger-i18n.tiktokv.com
 rtc-logger-ie.tiktokv.eu
+rtc-logger.tiktokv.com
 rtc-logger.tiktokv.us
 rtc-logger-ttp2.us.tiktokv.com
 rtc-logger.us.tiktokv.com
