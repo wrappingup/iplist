@@ -307,7 +307,6 @@ ad-instantpage-i18n.tiktokv.com
 ad-instantpage-sg.tiktokv.com
 ad-instantpage.tiktokv.us
 ad-instantpage-ttp2.tiktokv.eu
-ad-instantpage-ttp2.tiktokv.us
 ad-instantpage-va.tiktokv.com
 adio.co
 adip.ly
@@ -433,7 +432,6 @@ ad-score.com
 ads-creativesyndicator.com
 ads.diamonds
 adsdk.microsoft.com
-adsdkpreprod.afd.azureedge.net
 adsdkpreprod.azureedge.net
 adsdkprod.afd.azureedge.net
 adsdkprod.azureedge.net
@@ -477,8 +475,10 @@ ads.pureleads.com
 adsrv.eacdn.com
 adsrvr.org
 adsrvs.com
+ads-service.tiktok.com
 ads-setu-proxy-eu.amazon.com
 ads-sg.tiktok.com
+adsstatic.microsoft.com
 adsterra.com
 adstheaa.com
 ads.tiktok.com
@@ -983,6 +983,7 @@ at-beta.amazon-adsystem.com
 *.atdmt.com
 atdmt.com
 atemda.com
+ateu.amazon-adsystem.com
 atfe.amazon-adsystem.com
 at-gamma-us-east.amazon-adsystem.com
 atgsvcs.com
@@ -1440,7 +1441,6 @@ cash4fundraising.com
 cashbackwindow.com
 cashforfundraising.com
 cashlantis.com
-cas-telemetry.trafficmanager.net
 catchproduct.com
 c.at.msn.com
 c.be.msn.com
@@ -3233,7 +3233,7 @@ html5nano-visor.org
 html5nanovisor.org
 html5nano-visor.us
 html5nanovisor.us
-</html>#OSINT IOC Feed generated At Time: 2025-01-31T20:20:01+00:00 on Threatview[.]io
+</html>#OSINT IOC Feed generated At Time: 2025-02-01T08:20:01+00:00 on Threatview[.]io
 httptrack.com
 huafeibianzhidai.com
 hub.analytics.trafficmanager.net
@@ -14089,7 +14089,6 @@ monitoring.eu-west-3.amazonaws.com
 monitoring.il-central-1.amazonaws.com
 monitoring.me-central-1.amazonaws.com
 monitoring.me-south-1.amazonaws.com
-monitoring.prod.cloudwatch.amazonaws.com
 monitoring.sa-east-1.amazonaws.com
 monitoring.us-east-1.amazonaws.com
 monitoring.us-east-2.amazonaws.com
@@ -15190,10 +15189,12 @@ rtlog16-applog-useast1a.tiktokv.com
 rtlog16-applog-useast2a.tiktokv.com
 rtlog16-applog-useast5.us.tiktokv.com
 rtlog16-normal-alisg.tiktokv.com
+rtlog16-normal-alisg.tiktokv.com.bytewlb.akadns.net
 rtlog16-normal-ind.tiktokv.com
 rtlog16-normal-no1a.tiktokv.eu
 rtlog16-normal.tiktokv.com
 rtlog16-normal-useast1a.tiktokv.com
+rtlog16-normal-useast1a.tiktokv.com.bytewlb.akadns.net
 rtlog16-normal-useast2a.tiktokv.com
 rtlog16-normal-useast5.tiktokv.us
 rtlog16-normal-useast8.tiktokv.us
