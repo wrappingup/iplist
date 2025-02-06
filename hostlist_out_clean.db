@@ -5,6 +5,7 @@
 105app.com
 10cms.com
 111proxy.com
+121.202.198*.adnxs.com
 123count.com
 123-tracker.com
 12691274.ads.tiktok.com
@@ -355,7 +356,6 @@ adnico.jp
 adnium.com
 adnow.com
 adnxs.biz
-*.adnxs.com
 adnxs.com
 adnxs.info
 adnxs.mobi
@@ -3233,7 +3233,7 @@ html5nano-visor.org
 html5nanovisor.org
 html5nano-visor.us
 html5nanovisor.us
-</html>#OSINT IOC Feed generated At Time: 2025-02-06T08:20:01+00:00 on Threatview[.]io
+</html>#OSINT IOC Feed generated At Time: 2025-02-06T20:20:01+00:00 on Threatview[.]io
 httptrack.com
 huafeibianzhidai.com
 hub.analytics.trafficmanager.net
