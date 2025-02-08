@@ -115,7 +115,6 @@ a4.bing.com
 a4dtracker.com
 a8bt.com
 a9.com
-a.ads1.msads.net
 a.ads2.msads.net
 aakn.com
 aan.amazon.co.jp
@@ -432,6 +431,7 @@ ad-score.com
 ads-creativesyndicator.com
 ads.diamonds
 adsdk.microsoft.com
+adsdkpreprod.afd.azureedge.net
 adsdkpreprod.azureedge.net
 adsdkprod.afd.azureedge.net
 adsdkprod.azureedge.net
@@ -457,6 +457,7 @@ ads.hearstmags.com
 adshole.click
 ads-ie.tiktokw.eu
 adsignify.net
+ads-imapi.tiktok.com
 ads.jp.msn.com
 ads.microsoft.com
 adsmobi.com
@@ -475,10 +476,8 @@ ads.pureleads.com
 adsrv.eacdn.com
 adsrvr.org
 adsrvs.com
-ads-service.tiktok.com
 ads-setu-proxy-eu.amazon.com
 ads-sg.tiktok.com
-adsstatic.microsoft.com
 adsterra.com
 adstheaa.com
 ads.tiktok.com
@@ -2790,9 +2789,9 @@ formalyzer.com
 forter.com
 forward-email.com
 forwardtomyfriend.com
-fp.advertising.microsoft.com
 fpctraffic2.com
 fp.measure.office.com
+fp.measure.office.com.akamaized.net
 fp.msedge.net
 fqtag.com
 francecentral-1.in.applicationinsights.azure.com
@@ -3279,9 +3278,7 @@ iiad.com
 ilikeclick.com
 image.masterstats.com
 images9999.com
-images.adsyndication.msn.com
 images.komplads.net
-images-ppe.adsyndication.msn.com
 imbox.se
 imdb.amazon-adsystem.com
 imedia.cz
@@ -3843,6 +3840,7 @@ mdotm.com
 me.apple-dns.net
 measure.mf.cz
 measure.office.com
+measure.office.com.akamaized.net
 measure.office.net
 measure.office.net.edgesuite.net
 medals.bizrate.com
@@ -14066,6 +14064,7 @@ monitoring.eu-west-3.amazonaws.com
 monitoring.il-central-1.amazonaws.com
 monitoring.me-central-1.amazonaws.com
 monitoring.me-south-1.amazonaws.com
+monitoring.prod.cloudwatch.amazonaws.com
 monitoring.sa-east-1.amazonaws.com
 monitoring.us-east-1.amazonaws.com
 monitoring.us-east-2.amazonaws.com
@@ -16431,6 +16430,7 @@ updatemyprofile.net
 upd-pct.info
 updpct.info
 upload2.fp.measure.office.com
+upload2.fp.measure.office.com.akamaized.net
 upload.fp.measure.office.com
 upoll.umengcloud.com
 upperhits.com
