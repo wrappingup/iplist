@@ -302,7 +302,6 @@ adinfuse.com
 adingo.jp
 adinquiry.bingads.microsoft.com
 adinsight.api.bingads.microsoft.com
-ad-instantpage-i18n.tiktokv.com
 ad-instantpage-sg.tiktokv.com
 ad-instantpage.tiktokv.us
 ad-instantpage-ttp2.tiktokv.eu
@@ -457,7 +456,6 @@ ads.hearstmags.com
 adshole.click
 ads-ie.tiktokw.eu
 adsignify.net
-ads-imapi.tiktok.com
 ads.jp.msn.com
 ads.microsoft.com
 adsmobi.com
@@ -494,7 +492,6 @@ adsurity.com
 adsurity.de
 adsurity.fr
 adsurity.nl
-ads-useast2a.tiktok.com
 ads.us.tiktok.com
 ads-verify.net
 ads.viber.com
@@ -3450,6 +3447,7 @@ jmxded110.net
 jntaoche.cn
 joeporn.com
 jordao.80.hk
+jpc-visio-telemetry.officeapps.live.com
 jp.events.data.trafficmanager.net
 jp-mobile.events.data.microsoft.com
 jpush.cn
@@ -14064,7 +14062,6 @@ monitoring.eu-west-3.amazonaws.com
 monitoring.il-central-1.amazonaws.com
 monitoring.me-central-1.amazonaws.com
 monitoring.me-south-1.amazonaws.com
-monitoring.prod.cloudwatch.amazonaws.com
 monitoring.sa-east-1.amazonaws.com
 monitoring.us-east-1.amazonaws.com
 monitoring.us-east-2.amazonaws.com
