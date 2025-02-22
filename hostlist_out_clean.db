@@ -115,6 +115,7 @@ a4.bing.com
 a4dtracker.com
 a8bt.com
 a9.com
+a.ads1.msads.net
 a.ads2.msads.net
 aakn.com
 aan.amazon.co.jp
@@ -430,8 +431,6 @@ ad-score.com
 ads-creativesyndicator.com
 ads.diamonds
 adsdk.microsoft.com
-adsdkpreprod.afd.azureedge.net
-adsdkpreprod.azureedge.net
 adsdkprod.afd.azureedge.net
 adsdkprod.azureedge.net
 adsdk.trafficmanager.net
@@ -456,6 +455,7 @@ ads.hearstmags.com
 adshole.click
 ads-ie.tiktokw.eu
 adsignify.net
+ads-imapi.tiktok.com
 ads.jp.msn.com
 ads.microsoft.com
 adsmobi.com
@@ -2794,6 +2794,7 @@ fp.measure.office.com
 fp.measure.office.com.akamaized.net
 fp.msedge.net
 fqtag.com
+francecentral-0.in.applicationinsights.azure.com
 francecentral-1.in.applicationinsights.azure.com
 frantro.de
 fraudmetrix.cn
@@ -3278,7 +3279,9 @@ iiad.com
 ilikeclick.com
 image.masterstats.com
 images9999.com
+images.adsyndication.msn.com
 images.komplads.net
+images-ppe.adsyndication.msn.com
 imbox.se
 imdb.amazon-adsystem.com
 imedia.cz
@@ -3450,7 +3453,6 @@ jmxded110.net
 jntaoche.cn
 joeporn.com
 jordao.80.hk
-jpc-visio-telemetry.officeapps.live.com
 jp.events.data.trafficmanager.net
 jp-mobile.events.data.microsoft.com
 jpush.cn
@@ -14312,6 +14314,7 @@ newdating.today
 newdealmedia.info
 news-app-events.apple.com
 newscurve.com
+news-events.apple.com
 newsinc.com
 news-notification-events.apple.com
 news-sports-events.apple.com
