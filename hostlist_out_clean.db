@@ -751,7 +751,6 @@ analytics.gandi.net
 analytics.hosting24.com
 analytics-i18n.tiktok.com
 analytics-ie.tiktokw.eu
-analyticsiot-prod-simpad-ehn.servicebus.windows.net
 analytics.ip-profis.de
 analytics-ipv6.tiktokw.us
 analytics-listener.trafficmanager.net
@@ -2794,7 +2793,6 @@ fp.measure.office.com
 fp.measure.office.com.akamaized.net
 fp.msedge.net
 fqtag.com
-francecentral-0.in.applicationinsights.azure.com
 francecentral-1.in.applicationinsights.azure.com
 frantro.de
 fraudmetrix.cn
@@ -3213,7 +3211,6 @@ html5nanovisor.us
 httptrack.com
 huafeibianzhidai.com
 hub.analytics.trafficmanager.net
-hubblecontent.osi.office.net
 hublogic.com
 hubspot10.com
 hubspot10.net
@@ -16827,14 +16824,17 @@ www.assoc-amazon.jp
 www.audio2.spotify.com
 www.bingads.microsoft.com
 www.c.bing.com
+www.dc.applicationinsights.azure.com
 www.gold.smbusinessbiz.com
 www.group-metrics.com
 www.hypertracker.com
+www.live.applicationinsights.azure.com
 www.msads.net
 www.paa-reporting-advertising.amazon
 wwwpromoter.com
 www.qwapi.com
 www.rsmtrack.com
+www.rt.applicationinsights.microsoft.com
 www.telecommandsvc.microsoft.com
 wysistat.net
 wywy.com
