@@ -306,6 +306,7 @@ adinsight.api.bingads.microsoft.com
 ad-instantpage-sg.tiktokv.com
 ad-instantpage.tiktokv.us
 ad-instantpage-ttp2.tiktokv.eu
+ad-instantpage-ttp2.tiktokv.us
 ad-instantpage-va.tiktokv.com
 adio.co
 adip.ly
@@ -483,7 +484,6 @@ ads.tiktok.com
 ads.tiktok.in
 ads.tiktok.tv
 ad-stir.com
-adstore.response.eastus.trafficmanager.net
 adstore.response.gcp.eastus.trafficmanager.net
 ads-ttp2.tiktokw.eu
 ads-ttp2.us.tiktok.com
@@ -14065,7 +14065,6 @@ monitoring.eu-west-3.amazonaws.com
 monitoring.il-central-1.amazonaws.com
 monitoring.me-central-1.amazonaws.com
 monitoring.me-south-1.amazonaws.com
-monitoring.prod.cloudwatch.amazonaws.com
 monitoring.sa-east-1.amazonaws.com
 monitoring.us-east-1.amazonaws.com
 monitoring.us-east-2.amazonaws.com
@@ -14077,6 +14076,7 @@ monitor.uu.qq.com
 monkeytracker.cz
 mon-phx.tiktokv.com
 mon-ru.tiktokv.com
+mon-sg.byteoversea.com
 mon-sg.tiktokv.com
 mon.snssdk.com
 mon.tiktokv.com
@@ -14611,6 +14611,7 @@ pgpartner.com
 pgtbr1-excel-telemetry-vip.officeapps.live.com
 pgtbr1-powerpoint-telemetry-vip.officeapps.live.com
 pgtbr1-word-telemetry-vip.officeapps.live.com
+pgtbr2-excel-telemetry-vip.officeapps.live.com
 pgtca1-excel-telemetry-vip.officeapps.live.com
 pgtca1-powerpoint-telemetry-vip.officeapps.live.com
 pgtca1-word-telemetry-vip.officeapps.live.com
