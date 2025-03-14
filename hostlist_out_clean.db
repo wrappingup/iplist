@@ -465,6 +465,7 @@ adsmobi.info
 *.ads*.msads.net
 *.ads*.msn.com
 ads.msn.com
+ads-msn-com-profile.trafficmanager.net
 adsnative.com
 adsonar.com
 adsoptimal.com
@@ -1045,10 +1046,12 @@ awmetrics.com
 axp.amazon-adsystem.com
 az361816.vo.msecnd.net
 az512334.vo.msecnd.net
+az667904.vo.msecnd.net
 azalead.com
 azdx.net
 azera-s014.com
 azsc-bingads-westus.westus.cloudapp.azure.com
+azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com
 azure.bingads.microsoft.com
 azure.bingads.trafficmanager.net
 azurewatson.microsoft.com
@@ -2652,6 +2655,7 @@ expandengagement.com
 experiments.apple.com
 experiments.apple.com.edgekey.net
 exponential.com
+express.bingads.microsoft.com
 ext.host-tracker.com
 extlog.snssdk.com
 extole.com
@@ -3555,6 +3559,7 @@ leadid.org
 leadmailing.com
 leanplum.com
 learninglab.about.ads.microsoft.com
+learninglab.ads.microsoft.com
 ledimed-ks.com
 legacywatson.trafficmanager.net
 legolas-media.com
@@ -16642,6 +16647,7 @@ vrtztrk.com
 vservdigital.com
 vserv.mobi
 vservmobi.com
+vstelemetry.trafficmanager.net
 vungle.com
 vvbox.cz
 vwdservices.com
