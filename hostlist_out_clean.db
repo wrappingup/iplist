@@ -3261,8 +3261,6 @@ iad-apple.com.akadns.net
 iadcontent.apple.com
 iadcontent-lb.apple.com.akadns.net
 iadmoo.apple.com
-iad.pg.bid-na.ads.aps.amazon-adsystem.com
-iad.pg.event-na.ads.aps.amazon-adsystem.com
 iadsdk.apple.com
 iadsdk.apple.com.akadns.net
 iadsdk.apple.com.edgekey.net
@@ -3332,6 +3330,7 @@ indexww.com
 indpcr1.com
 industrybrains.com
 inetwork.directory
+inference-app-gateway.eastus2.cloudapp.azure.com
 inference-app-gateway.koreacentral.cloudapp.azure.com
 inference-app-gateway.northeurope.cloudapp.azure.com
 inference.location.live.net
@@ -14088,6 +14087,7 @@ monitoring.me-south-1.amazonaws.com
 monitoring.sa-east-1.amazonaws.com
 monitoring.us-east-1.amazonaws.com
 monitoring.us-east-2.amazonaws.com
+monitoring.us-gov-east-1.amazonaws.com
 monitoring.us-gov-west-1.amazonaws.com
 monitoring.us-west-1.amazonaws.com
 monitoring.us-west-2.amazonaws.com
@@ -14596,8 +14596,6 @@ pc-mon-va.byteoversea.com
 pct-upd.info
 pctupd.info
 pdxor02.com
-pdx.pg.bid-na.ads.aps.amazon-adsystem.com
-pdx.pg.event-na.ads.aps.amazon-adsystem.com
 peer39.net
 peerius.com
 pepperjamnetwork.com
@@ -16789,6 +16787,7 @@ westus2-4.in.applicationinsights.azure.com
 westus2-5.in.applicationinsights.azure.com
 westus2-global.in.applicationinsights.azure.com
 westus3-1.in.applicationinsights.azure.com
+westus3.in.applicationinsights.azure.com
 wetfs.global-1.telemetry.insights.video.a2z.com
 wetfs.global-2.telemetry.insights.video.a2z.com
 wetfs.global-3.telemetry.insights.video.a2z.com
@@ -16862,7 +16861,6 @@ www.assoc-amazon.jp
 www.audio2.spotify.com
 www.bingads.microsoft.com
 www.c.bing.com
-www.dc.applicationinsights.azure.com
 www.gold.smbusinessbiz.com
 www.group-metrics.com
 www.hypertracker.com
