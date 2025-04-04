@@ -155,6 +155,7 @@ aax-eu-ott-events.amazon-adsystem.com
 aax-eu-rtb-adx.amazon-adsystem.com
 aax-eu-rtb.amazon-adsystem.com
 aax-eu-test1.amazon-adsystem.com
+aax-events-cell02.ap-southeast.3px.axp.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
 aax-fe-rtb.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
@@ -723,7 +724,6 @@ analyticaa.postaffiliatepro.com
 analytics.163.com
 analytics.amakings.com
 analytics.apnewsregistry.com
-analytics.aps.amazon-adsystem.com
 analytics-attribution.tiktok.com
 analytics-attribution-va.tiktok.com
 analytics.bartlweb.net
@@ -15272,7 +15272,6 @@ s0b.bluestreak.com
 s1.countby.com
 s1.trafficmaxx.de
 s2.paa-reporting-advertising.amazon
-s2s-iad.pg.bid-na.ads.aps.amazon-adsystem.com
 s2s.pg.bid-na.ads.aps.amazon-adsystem.com
 s2s.spp.bid-na.ads-beta.aps.amazon-adsystem.com
 s2s.spp.event-na.ads-beta.aps.amazon-adsystem.com
