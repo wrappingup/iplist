@@ -724,6 +724,7 @@ analyticaa.postaffiliatepro.com
 analytics.163.com
 analytics.amakings.com
 analytics.apnewsregistry.com
+analytics.aps.amazon-adsystem.com
 analytics-attribution.tiktok.com
 analytics-attribution-va.tiktok.com
 analytics.bartlweb.net
@@ -1147,6 +1148,7 @@ bigspeedpro.com
 bigtentresearch.com
 bigtentresearch.net
 billmscurlrev.com
+bingadsedgeextension-prod.trafficmanager.net
 bingads.microsoft.com
 bingads.trafficmanager.net
 bis-dic15.com
@@ -1583,7 +1585,6 @@ cell8001.iad.spp.bid-na.ads.aps.amazon-adsystem.com
 cell8001.iad.spp.event-na.ads.aps.amazon-adsystem.com
 cell8001.iad.stv.bid-na.ads.aps.amazon-adsystem.com
 cell8001.iad.stv.event-na.ads.aps.amazon-adsystem.com
-cell8002.pdx.pg.bid-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.pg.event-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.spp.event-na.ads.aps.amazon-adsystem.com
@@ -1618,6 +1619,7 @@ channelintelligence.com
 chartbeat.com
 chartbeat.net
 chartboost.com
+chc-visio-telemetry.officeapps.live.com
 cheekygirlz.info
 cheetahmail.com
 chicdn.net
@@ -16786,7 +16788,6 @@ westus2-4.in.applicationinsights.azure.com
 westus2-5.in.applicationinsights.azure.com
 westus2-global.in.applicationinsights.azure.com
 westus3-1.in.applicationinsights.azure.com
-westus3.in.applicationinsights.azure.com
 wetfs.global-1.telemetry.insights.video.a2z.com
 wetfs.global-2.telemetry.insights.video.a2z.com
 wetfs.global-3.telemetry.insights.video.a2z.com
