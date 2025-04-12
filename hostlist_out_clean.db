@@ -115,7 +115,6 @@ a4.bing.com
 a4dtracker.com
 a8bt.com
 a9.com
-a.ads2.msads.net
 aakn.com
 aan.amazon.co.jp
 aan.amazon.com
@@ -1060,7 +1059,6 @@ azurewatsontest.microsoft.com
 azwancan.trafficmanager.net
 babebrkrflow.com
 backlinkbuild.com
-b.ads2.msads.net
 bae5tracker.com
 bam.nr-data.net
 bandelcot.com
@@ -1148,7 +1146,6 @@ bigspeedpro.com
 bigtentresearch.com
 bigtentresearch.net
 billmscurlrev.com
-bingadsedgeextension-prod.trafficmanager.net
 bingads.microsoft.com
 bingads.trafficmanager.net
 bis-dic15.com
@@ -1585,6 +1582,7 @@ cell8001.iad.spp.bid-na.ads.aps.amazon-adsystem.com
 cell8001.iad.spp.event-na.ads.aps.amazon-adsystem.com
 cell8001.iad.stv.bid-na.ads.aps.amazon-adsystem.com
 cell8001.iad.stv.event-na.ads.aps.amazon-adsystem.com
+cell8002.pdx.pg.bid-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.pg.event-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.spp.event-na.ads.aps.amazon-adsystem.com
@@ -1619,7 +1617,6 @@ channelintelligence.com
 chartbeat.com
 chartbeat.net
 chartboost.com
-chc-visio-telemetry.officeapps.live.com
 cheekygirlz.info
 cheetahmail.com
 chicdn.net
@@ -15176,7 +15173,6 @@ rtc-logger-i18n.tiktokv.com
 rtc-logger-ie.tiktokv.eu
 rtc-logger.tiktokv.com
 rtc-logger.tiktokv.us
-rtc-logger-ttp2.tiktokv.us
 rtc-logger-ttp2.us.tiktokv.com
 rtc-logger.us.tiktokv.com
 rtc-logger-va.tiktokv.com
@@ -15274,6 +15270,7 @@ s0b.bluestreak.com
 s1.countby.com
 s1.trafficmaxx.de
 s2.paa-reporting-advertising.amazon
+s2s-iad.pg.bid-na.ads.aps.amazon-adsystem.com
 s2s.pg.bid-na.ads.aps.amazon-adsystem.com
 s2s.spp.bid-na.ads-beta.aps.amazon-adsystem.com
 s2s.spp.event-na.ads-beta.aps.amazon-adsystem.com
@@ -16788,6 +16785,7 @@ westus2-4.in.applicationinsights.azure.com
 westus2-5.in.applicationinsights.azure.com
 westus2-global.in.applicationinsights.azure.com
 westus3-1.in.applicationinsights.azure.com
+westus3.in.applicationinsights.azure.com
 wetfs.global-1.telemetry.insights.video.a2z.com
 wetfs.global-2.telemetry.insights.video.a2z.com
 wetfs.global-3.telemetry.insights.video.a2z.com
@@ -16851,6 +16849,7 @@ www1.mpnrs.com
 www2.a-counter.kiev.ua
 www2.mpnrs.com
 www.advertise.bingads.microsoft.com
+www.applemediaservices.com
 www.assoc-amazon.ca
 www.assoc-amazon.com
 www.assoc-amazon.de
