@@ -154,6 +154,7 @@ aax-eu-ott-events.amazon-adsystem.com
 aax-eu-rtb-adx.amazon-adsystem.com
 aax-eu-rtb.amazon-adsystem.com
 aax-eu-test1.amazon-adsystem.com
+aax-events-cell01.ap-southeast.aps.axp.amazon-adsystem.com
 aax-events-cell02.ap-southeast.3px.axp.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
 aax-fe-rtb.amazon-adsystem.com
@@ -1582,7 +1583,6 @@ cell8001.iad.spp.bid-na.ads.aps.amazon-adsystem.com
 cell8001.iad.spp.event-na.ads.aps.amazon-adsystem.com
 cell8001.iad.stv.bid-na.ads.aps.amazon-adsystem.com
 cell8001.iad.stv.event-na.ads.aps.amazon-adsystem.com
-cell8002.pdx.pg.bid-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.pg.event-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.spp.event-na.ads.aps.amazon-adsystem.com
@@ -14083,6 +14083,7 @@ monitoring.eu-west-3.amazonaws.com
 monitoring.il-central-1.amazonaws.com
 monitoring.me-central-1.amazonaws.com
 monitoring.me-south-1.amazonaws.com
+monitoring.prod.cloudwatch.amazonaws.com
 monitoring.sa-east-1.amazonaws.com
 monitoring.us-east-1.amazonaws.com
 monitoring.us-east-2.amazonaws.com
@@ -14649,6 +14650,7 @@ pgtmx1-powerpoint-telemetry-vip.officeapps.live.com
 pgtmx1-word-telemetry-vip.officeapps.live.com
 pgtsg1-excel-telemetry-vip.officeapps.live.com
 pgtsg1-powerpoint-telemetry-vip.officeapps.live.com
+pgtsg1-word-telemetry-vip.officeapps.live.com
 pgtus1-excel-telemetry-vip.officeapps.live.com
 pgtus1-powerpoint-telemetry-vip.officeapps.live.com
 pgtus1-word-telemetry-vip.officeapps.live.com
@@ -16518,6 +16520,7 @@ usgovarizona-global.in.applicationinsights.azure.us
 usgovvirginia-0.in.applicationinsights.azure.us
 usgovvirginia-1.in.applicationinsights.azure.us
 usgovvirginia-global.in.applicationinsights.azure.us
+us-ic3.events.data.microsoft.com
 us-mesh.events.data.microsoft.com
 usmetric.rediff.com
 us-mobile.events.data.microsoft.com
