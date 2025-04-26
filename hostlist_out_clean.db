@@ -724,7 +724,6 @@ analyticaa.postaffiliatepro.com
 analytics.163.com
 analytics.amakings.com
 analytics.apnewsregistry.com
-analytics.aps.amazon-adsystem.com
 analytics-attribution.tiktok.com
 analytics-attribution-va.tiktok.com
 analytics.bartlweb.net
@@ -14083,7 +14082,6 @@ monitoring.eu-west-3.amazonaws.com
 monitoring.il-central-1.amazonaws.com
 monitoring.me-central-1.amazonaws.com
 monitoring.me-south-1.amazonaws.com
-monitoring.prod.cloudwatch.amazonaws.com
 monitoring.sa-east-1.amazonaws.com
 monitoring.us-east-1.amazonaws.com
 monitoring.us-east-2.amazonaws.com
@@ -15175,6 +15173,7 @@ rtc-logger-i18n.tiktokv.com
 rtc-logger-ie.tiktokv.eu
 rtc-logger.tiktokv.com
 rtc-logger.tiktokv.us
+rtc-logger-ttp2.tiktokv.us
 rtc-logger-ttp2.us.tiktokv.com
 rtc-logger.us.tiktokv.com
 rtc-logger-va.tiktokv.com
@@ -15272,7 +15271,6 @@ s0b.bluestreak.com
 s1.countby.com
 s1.trafficmaxx.de
 s2.paa-reporting-advertising.amazon
-s2s-iad.pg.bid-na.ads.aps.amazon-adsystem.com
 s2s.pg.bid-na.ads.aps.amazon-adsystem.com
 s2s.spp.bid-na.ads-beta.aps.amazon-adsystem.com
 s2s.spp.event-na.ads-beta.aps.amazon-adsystem.com
@@ -16790,7 +16788,6 @@ westus2-4.in.applicationinsights.azure.com
 westus2-5.in.applicationinsights.azure.com
 westus2-global.in.applicationinsights.azure.com
 westus3-1.in.applicationinsights.azure.com
-westus3.in.applicationinsights.azure.com
 wetfs.global-1.telemetry.insights.video.a2z.com
 wetfs.global-2.telemetry.insights.video.a2z.com
 wetfs.global-3.telemetry.insights.video.a2z.com
@@ -16854,7 +16851,6 @@ www1.mpnrs.com
 www2.a-counter.kiev.ua
 www2.mpnrs.com
 www.advertise.bingads.microsoft.com
-www.applemediaservices.com
 www.assoc-amazon.ca
 www.assoc-amazon.com
 www.assoc-amazon.de
