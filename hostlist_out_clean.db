@@ -753,7 +753,6 @@ analytics.gandi.net
 analytics.hosting24.com
 analytics-i18n.tiktok.com
 analytics-ie.tiktokw.eu
-analyticsiot-prod-simpad-ehn.servicebus.windows.net
 analytics.ip-profis.de
 analytics-ipv6.tiktokw.us
 analytics-listener.trafficmanager.net
@@ -1638,7 +1637,6 @@ c.in.msn.com
 circulate.com
 c.it.msn.com
 citrixanalyticseh2-alias.servicebus.windows.net
-citrixanalyticseh2.servicebus.windows.net
 citrixanalyticseh-alias.servicebus.windows.net
 citrixanalyticsehaps-alias.servicebus.windows.net
 citrixanalyticsehaps.servicebus.windows.net
@@ -16520,7 +16518,6 @@ usgovarizona-global.in.applicationinsights.azure.us
 usgovvirginia-0.in.applicationinsights.azure.us
 usgovvirginia-1.in.applicationinsights.azure.us
 usgovvirginia-global.in.applicationinsights.azure.us
-us-ic3.events.data.microsoft.com
 us-mesh.events.data.microsoft.com
 usmetric.rediff.com
 us-mobile.events.data.microsoft.com
@@ -16861,14 +16858,17 @@ www.assoc-amazon.jp
 www.audio2.spotify.com
 www.bingads.microsoft.com
 www.c.bing.com
+www.dc.applicationinsights.azure.com
 www.gold.smbusinessbiz.com
 www.group-metrics.com
 www.hypertracker.com
+www.live.applicationinsights.azure.com
 www.msads.net
 www.paa-reporting-advertising.amazon
 wwwpromoter.com
 www.qwapi.com
 www.rsmtrack.com
+www.rt.applicationinsights.microsoft.com
 www.telecommandsvc.microsoft.com
 wysistat.net
 wywy.com
