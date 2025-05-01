@@ -753,6 +753,7 @@ analytics.gandi.net
 analytics.hosting24.com
 analytics-i18n.tiktok.com
 analytics-ie.tiktokw.eu
+analyticsiot-prod-simpad-ehn.servicebus.windows.net
 analytics.ip-profis.de
 analytics-ipv6.tiktokw.us
 analytics-listener.trafficmanager.net
@@ -944,6 +945,9 @@ arc.msn.com
 arcpublishing.com
 areyouahuman.com
 aria.events.data.trafficmanager.net
+a-ring-fallback.msedge.net
+a-ring-ipv6only.msedge.net
+a-ring.msedge.net
 arnostat.nl
 arrowscripts.com
 as133873.net
@@ -1297,6 +1301,8 @@ brightroll.org
 brightrollvideosummit.com
 brightroulette.com
 brilig.com
+b-ring-fallback.msedge.net
+b-ring.msedge.net
 britecove.biz
 broadband2compare.com
 broker.to
@@ -1637,6 +1643,7 @@ c.in.msn.com
 circulate.com
 c.it.msn.com
 citrixanalyticseh2-alias.servicebus.windows.net
+citrixanalyticseh2.servicebus.windows.net
 citrixanalyticseh-alias.servicebus.windows.net
 citrixanalyticsehaps-alias.servicebus.windows.net
 citrixanalyticsehaps.servicebus.windows.net
@@ -2055,6 +2062,8 @@ creativelibrary.org
 creative-serving.com
 creatormail.co.uk
 crimsonspace.com
+c-ring-fallback.msedge.net
+c-ring.msedge.net
 crispadvertising.com
 crisppremium.com
 criteo.biz
@@ -3533,6 +3542,8 @@ korrelate.com
 korrelate.net
 kqzyfj.com
 kraken-measurements.s3-external-1.amazonaws.com
+k-ring-fallback.msedge.net
+k-ring.msedge.net
 krxd.net
 ksmobile.com
 l4.tb.events.data.trafficmanager.net
@@ -3623,6 +3634,8 @@ live-video-log16-normal-alisg.tiktokv.com
 liwio.com
 lkqd.com
 lkqd.net
+ln-ring-fallback.msedge.net
+ln-ring.msedge.net
 loadus.exelator.com
 localconfirmsubscription.com
 localcreatesend.com
@@ -15763,6 +15776,7 @@ sq-tungsten-ts.amazon-adsystem.com
 sq-tungsten-ts-eu.amazon-adsystem.com
 sq-tungsten-ts-fe.amazon-adsystem.com
 src.labeldollars.com
+s-ring-fallback.msedge.net
 srtb.msn.com
 srv123.com
 srv4pub.com
@@ -16287,6 +16301,12 @@ tr.iadsdk.apple.com
 tribalfusion.com
 triggertag.gorillanation.com
 triggit.com
+t-ring-fallback.msedge.net
+t-ring-fallbacks1.msedge.net
+t-ring-fallback-s2.msedge.net
+t-ring.msedge.net
+t-ring-s2.msedge.net
+t-ring-s.msedge.net
 trk.adtrf.com
 trk.bluepawmktg.com
 trk.bpcashtrk.com
@@ -16325,6 +16345,7 @@ truviewdata.com
 tr-vcode-api.vivoglobal.com
 tr-vcode-od.vivoglobal.com
 trychameleon.com
+t-s1-ring.msedge.net
 ts.amazon-adsystem.com
 tsearch.snssdk.com
 ts-gamma.amazon-adsystem.com
@@ -16785,6 +16806,7 @@ westus2-4.in.applicationinsights.azure.com
 westus2-5.in.applicationinsights.azure.com
 westus2-global.in.applicationinsights.azure.com
 westus3-1.in.applicationinsights.azure.com
+westus3.in.applicationinsights.azure.com
 wetfs.global-1.telemetry.insights.video.a2z.com
 wetfs.global-2.telemetry.insights.video.a2z.com
 wetfs.global-3.telemetry.insights.video.a2z.com
@@ -16858,17 +16880,14 @@ www.assoc-amazon.jp
 www.audio2.spotify.com
 www.bingads.microsoft.com
 www.c.bing.com
-www.dc.applicationinsights.azure.com
 www.gold.smbusinessbiz.com
 www.group-metrics.com
 www.hypertracker.com
-www.live.applicationinsights.azure.com
 www.msads.net
 www.paa-reporting-advertising.amazon
 wwwpromoter.com
 www.qwapi.com
 www.rsmtrack.com
-www.rt.applicationinsights.microsoft.com
 www.telecommandsvc.microsoft.com
 wysistat.net
 wywy.com
