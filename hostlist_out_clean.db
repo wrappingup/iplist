@@ -477,6 +477,7 @@ ads.pureleads.com
 adsrv.eacdn.com
 adsrvr.org
 adsrvs.com
+ads-service.tiktok.com
 ads-setu-proxy-eu.amazon.com
 ads-sg.tiktok.com
 adsterra.com
@@ -494,6 +495,7 @@ adsurity.com
 adsurity.de
 adsurity.fr
 adsurity.nl
+ads-useast2a.tiktok.com
 ads.us.tiktok.com
 ads-verify.net
 ads.viber.com
@@ -15184,7 +15186,6 @@ rtc-logger-i18n.tiktokv.com
 rtc-logger-ie.tiktokv.eu
 rtc-logger.tiktokv.com
 rtc-logger.tiktokv.us
-rtc-logger-ttp2.tiktokv.us
 rtc-logger-ttp2.us.tiktokv.com
 rtc-logger.us.tiktokv.com
 rtc-logger-va.tiktokv.com
@@ -15204,6 +15205,7 @@ rtlog16-normal-useast2a.tiktokv.com
 rtlog16-normal-useast5.tiktokv.us
 rtlog16-normal-useast8.tiktokv.us
 rtlog16-normal-useast8.us.tiktokv.com
+rtlog16-normal-useastred.tiktokv.eu
 rtlog16-platform-useast5.us.tiktokv.com
 rtlog16-tmp-normal-useast1a.tiktokv.com
 rtlog17-normal-alisg.tiktokv.com
@@ -15282,6 +15284,7 @@ s0b.bluestreak.com
 s1.countby.com
 s1.trafficmaxx.de
 s2.paa-reporting-advertising.amazon
+s2s-iad.pg.bid-na.ads.aps.amazon-adsystem.com
 s2s.pg.bid-na.ads.aps.amazon-adsystem.com
 s2s.spp.bid-na.ads-beta.aps.amazon-adsystem.com
 s2s.spp.event-na.ads-beta.aps.amazon-adsystem.com
@@ -16536,9 +16539,11 @@ userzoom.com
 us.events.data.trafficmanager.net
 usgovarizona-0.in.applicationinsights.azure.us
 usgovarizona-global.in.applicationinsights.azure.us
+usgovtexas-0.in.applicationinsights.azure.us
 usgovvirginia-0.in.applicationinsights.azure.us
 usgovvirginia-1.in.applicationinsights.azure.us
 usgovvirginia-global.in.applicationinsights.azure.us
+us-ic3.events.data.microsoft.com
 us-mesh.events.data.microsoft.com
 usmetric.rediff.com
 us-mobile.events.data.microsoft.com
@@ -16718,6 +16723,7 @@ wayjump.com
 wci-fl.com
 weather-analytics-events.apple.com
 web-01-gbl.com
+web.ads.aps.amazon-adsystem.com
 webanalyse.ronet.info
 webanalytics2.ovh.net
 webanalytics.btelligent.net
@@ -16806,7 +16812,6 @@ westus2-4.in.applicationinsights.azure.com
 westus2-5.in.applicationinsights.azure.com
 westus2-global.in.applicationinsights.azure.com
 westus3-1.in.applicationinsights.azure.com
-westus3.in.applicationinsights.azure.com
 wetfs.global-1.telemetry.insights.video.a2z.com
 wetfs.global-2.telemetry.insights.video.a2z.com
 wetfs.global-3.telemetry.insights.video.a2z.com
