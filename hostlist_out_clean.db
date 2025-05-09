@@ -16,7 +16,6 @@
 1-creative-1.com
 1oavsblobprodcus350.blob.core.windows.net
 1orange-u.com
-1.rtlog19-normal-alisg.tiktokv.com
 1s3h4f7sl.com
 1trx1.com
 200summit.com
@@ -1624,13 +1623,13 @@ cell5001.iad.stv.bid-na.ads-gamma.aps.amazon-adsystem.com
 cell5001.iad.stv.event-na.ads-gamma.aps.amazon-adsystem.com
 cell5002.pdx.stv.bid-na.ads-gamma.aps.amazon-adsystem.com
 cell5002.pdx.stv.event-na.ads-gamma.aps.amazon-adsystem.com
+cell7001.iad.pg.event-na.ads.aps.amazon-adsystem.com
 cell7001.iad.spp.bid-na.ads.aps.amazon-adsystem.com
 cell7001.iad.stv.bid-na.ads.aps.amazon-adsystem.com
 cell7001.iad.stv.event-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.stv.event-na.ads.aps.amazon-adsystem.com
-cell8001.iad.pg.bid-na.ads.aps.amazon-adsystem.com
 cell8001.iad.pg.event-na.ads.aps.amazon-adsystem.com
 cell8001.iad.spp.bid-na.ads.aps.amazon-adsystem.com
 cell8001.iad.spp.event-na.ads.aps.amazon-adsystem.com
@@ -3836,8 +3835,6 @@ log19-normal-useast2a.tiktokv.com
 log22-applog-useast1a.tiktokv.com
 log22-applog-useast2a.tiktokv.com
 log22-normal-alisg.tiktokv.com
-log22-normal-c-useast1a.tiktokv.com
-log22-normal-c-useast2a.tiktokv.com
 log22-normal.tiktokv.com
 log22-normal-useast1a.tiktokv.com
 log22-normal-useast2a.tiktokv.com
@@ -14247,7 +14244,6 @@ monitoring.eu-west-3.amazonaws.com
 monitoring.il-central-1.amazonaws.com
 monitoring.me-central-1.amazonaws.com
 monitoring.me-south-1.amazonaws.com
-monitoring-op-ttp2.tiktokd.org
 monitoring.sa-east-1.amazonaws.com
 monitoring.us-east-1.amazonaws.com
 monitoring.us-east-2.amazonaws.com
@@ -15523,7 +15519,6 @@ s2-iad-ss-static-assets-cm.iad.apple.com
 s2-iad-ss-static-assets.iad.apple.com
 s2-iad-ss-user-targeting.iad.apple.com
 s2.paa-reporting-advertising.amazon
-s2s-iad.pg.bid-na.ads.aps.amazon-adsystem.com
 s2s.pg.bid-na.ads.aps.amazon-adsystem.com
 s2s.spp.bid-na.ads-beta.aps.amazon-adsystem.com
 s2s.spp.event-na.ads-beta.aps.amazon-adsystem.com
@@ -17157,7 +17152,6 @@ www.dc.applicationinsights.azure.com
 www.gold.smbusinessbiz.com
 www.group-metrics.com
 www.hypertracker.com
-www.js.monitor.azure.com
 www.live.applicationinsights.azure.com
 www.msads.net
 www.paa-reporting-advertising.amazon
